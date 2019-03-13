@@ -1,7 +1,7 @@
 <!-- TITLE: Deepcompute -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: A quick summary of this wiki.js -->
 
-# Header
+# Bonjour
 
 Hi Everyone my name is CMS wiki. 
 
